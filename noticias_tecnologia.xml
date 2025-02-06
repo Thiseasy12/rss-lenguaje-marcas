@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Mon, 28 Jan 2025 09:00:00 +0000</pubDate>
+        <lastBuildDate>Mon, 28 Jan 2025 09:00:00 +0000</lastBuildDate>
+ 
+       <item>
+    <title>DeepSeek enfrenta desafíos legales en Europa</title>
+    <link>https://www.ejemplo.com/deepseek-europa</link>
+    <description>Italia ha ordenado bloquear de manera urgente DeepSeek, el chatbot chino, enfrentándose a su primer gran desafío en Europa[_{{{CITATION{{{_1{Tecnología en EL PAÍS](https://elpais.com/tecnologia/). DeepSeek dice que "no opera en Italia" y que, por consecuencia, no está sujeto a la legislación europea[_{{{CITATION{{{_1{Tecnología en EL PAÍS](https://elpais.com/tecnologia/).</description>
+    <pubDate>Mon, 31 Jan 2025 00:01:56 +0000</pubDate>
+    <guid>https://www.ejemplo.com/deepseek-europa</guid>
+    <category>Legislación y Derechos</category>
+</item>
+
+<item>
+    <title>OpenAI lanza o3-mini para cuentas gratuitas de ChatGPT</title>
+    <link>https://www.ejemplo.com/o3-mini</link>
+    <description>OpenAI da un golpe en la mesa y lanza o3-mini: el nuevo modelo razonador aterriza en las cuentas gratuitas de ChatGPT[_{{{CITATION{{{_2{Tecnología Noticias y novedades en productos tecnológicos - Xataka](https://www.xataka.com/tag/tecnologia). Disponible en las cuentas gratuitas de ChatGPT[_{{{CITATION{{{_2{Tecnología Noticias y novedades en productos tecnológicos - Xataka](https://www.xataka.com/tag/tecnologia).</description>
+    <pubDate>Mon, 03 Feb 2025 10:11:13 +0000</pubDate>
+    <guid>https://www.ejemplo.com/o3-mini</guid>
+    <category>Robótica e IA</category>
+</item>
+
+<item>
+    <title>China se convierte en la mayor potencia de valor añadido del planeta</title>
+    <link>https://www.ejemplo.com/china-potencia</link>
+    <description>China se ha convertido en la mayor potencia de valor añadido del planeta gracias a retroalimentarse[_{{{CITATION{{{_2{Tecnología Noticias y novedades en productos tecnológicos - Xataka](https://www.xataka.com/tag/tecnologia). China quiere dejar de ser la fábrica del planeta[_{{{CITATION{{{_2{Tecnología Noticias y novedades en productos tecnológicos - Xataka](https://www.xataka.com/tag/tecnologia).</description>
+    <pubDate>Mon, 31 Jan 2025 16:31:57 +0000</pubDate>
+    <guid>https://www.ejemplo.com/china-potencia</guid>
+    <category>Empresas y economía</category>
+</item>
+    </channel>
+</rss>
+ 
